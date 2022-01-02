@@ -3,3 +3,5 @@ Teste arquivo
 Teste no primeiro
 a
 n
+arquivofa-spin
+<i class="fa fa-edge" aria-hidden="true"></i>
