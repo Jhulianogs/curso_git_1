@@ -1,2 +1,6 @@
 ignorado-antes.txt
 ignorado-depois.txt
+
+submodulo/
+
+.gitmodules
